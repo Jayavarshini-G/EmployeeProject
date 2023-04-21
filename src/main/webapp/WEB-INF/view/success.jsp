@@ -4,11 +4,11 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>File Upload Success</title>
+        <title>Successfully uploaded</title>
     </head>
 
     <body>
-        <h1>File Upload Successful</h1>
+        <h1>Successfully Uploaded</h1>
         <p>Your file has been uploaded successfully.</p>
     </body>
 

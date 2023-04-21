@@ -4,7 +4,7 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>File Upload Success</title>
+        <title>Successfully uploaded</title>
     </head>
 
     <body>
